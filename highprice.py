@@ -1,0 +1,2 @@
+def highprice(message):
+    pass

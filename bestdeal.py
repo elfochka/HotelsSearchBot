@@ -1,0 +1,2 @@
+def bestdeal(message):
+    pass
