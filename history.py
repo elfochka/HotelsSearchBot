@@ -1,2 +1,0 @@
-def history(message):
-    pass

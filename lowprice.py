@@ -1,2 +1,0 @@
-def lowprice(message):
-    pass
