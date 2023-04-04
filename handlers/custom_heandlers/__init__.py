@@ -1,6 +1,5 @@
-from . import lowprice
-from . import highprice
-from . import bestdeal
+from . import high_low_best
 from . import history
+from . import games
 
-__all__ = ['lowprice', 'highprice', 'bestdeal', 'history']
+__all__ = ['high_low_best', 'history', 'games']
